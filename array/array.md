@@ -4,6 +4,9 @@
 
 [![Static Badge](https://img.shields.io/badge/find_missing_and_repeated_values-black?style=for-the-badge&logo=leetcode)](https://github.com/ai-sumit/DSA--python--java/blob/main/array/find-missing-and-repeated-values.java)
 
+[![Static Badge](https://img.shields.io/badge/merge_sorted_array-black?style=for-the-badge&logo=leetcode)](https://github.com/ai-sumit/DSA--python--java/blob/main/array/merge-sorted-array.java)
+
+
 
 
 
